@@ -2,6 +2,6 @@
 "Notif" : "Yes",
 "Tittle" : "New Update Available",
 "Massage" : "✓ Fix",
-"B_positive" : "Update",
+"Button" : "Update",
 "Url" : "https://t.me/cyrustmods"
 }
