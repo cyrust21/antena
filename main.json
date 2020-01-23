@@ -2,6 +2,11 @@
 "A_Original" : "assetindexer.P55WLj4N0lYAZDYI48MHMRu0lZ8~3D",
 "A_Head" : "QV9IZWFk",
 "A_Hand" : "QV9IYW5k",
-"Config" : "Q29uZmln",
-"Massage" : "Hello World"
+"A_Ori" : "Q29uZmln",
+"Massage" : "Hello World",
+"Notif" : "Yes",
+"Tittle" : "New Update Available",
+"Massage" : "✓ Fix",
+"Button" : "Update",
+"Url" : "https://t.me/cyrustmods"
 }
