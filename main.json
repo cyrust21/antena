@@ -7,6 +7,7 @@
 "Notif" : "Yes",
 "Tittle" : "New Update Available",
 "D_Massage" : "✓ Fix",
+"D_Button" : "No",
 "Button" : "Update",
 "Url" : "",
 "Path" : "/storage/emulated/0/Android/data/com.dts.freefireth/files/contentcache/Compulsory/android/gameassetbundles/avatar"
