@@ -5,10 +5,10 @@
 "A_Ori" : "Q29uZmln",
 "Massage" : "Hello World
 Visual Tools",
-"Notif" : "Yes",
+"Notif" : "No",
 "Tittle" : "New Update Available",
 "D_Massage" : "✓ Fix",
-"D_Button" : "No",
+"D_Button" : "Yes",
 "Button" : "Update",
 "Url" : "",
 "Path" : "/storage/emulated/0/Android/data/com.dts.freefireth/files/contentcache/Compulsory/android/gameassetbundles/avatar"
