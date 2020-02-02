@@ -4,15 +4,15 @@
 "A_Hand" : "QV9IYW5k",
 "A_Ori" : "Q29uZmln",
 "BG" : "Yes",
-"Massage" : "Hello World 🌏 •MODE TEST•
+"Massage" : "Hello World 🌏
 Free Fire support version:
 - 1.43.4
 - 1.44.0
 - Advance Server",
-"Notif" : "No",
+"Notif" : "Yes",
 "Tittle" : "News",
-"D_Massage" : "Maintenance..",
-"D_Button_update" : "Yes",
+"D_Massage" : "Beta Test",
+"D_Button_update" : "No",
 "Button" : "Exit",
 "Url" : "",
 "Path" : "/storage/emulated/0/Android/data/com.dts.freefireth/files/contentcache/Compulsory/android/gameassetbundles/avatar"
