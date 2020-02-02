@@ -11,10 +11,9 @@ Free Fire support version:
 - Advance Server",
 "Notif" : "Yes",
 "Tittle" : "News",
-"D_Massage" : "•Support FF Advance Server ✓
-•Support Virtual Chinese ✓",
-"D_Button_update" : "No",
-"Button" : "Update",
-"Url" : "https://cyrustmods1.github.io/index",
+"D_Massage" : "Maintenance Please Wait",
+"D_Button_update" : "Yes",
+"Button" : "Cancel",
+"Url" : "",
 "Path" : "/storage/emulated/0/Android/data/com.dts.freefireth/files/contentcache/Compulsory/android/gameassetbundles/avatar"
 }
