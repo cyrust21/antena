@@ -11,9 +11,9 @@ Free Fire support version:
 - Advance Server",
 "Notif" : "Yes",
 "Tittle" : "News",
-"D_Massage" : "Beta Test",
-"D_Button_update" : "No",
-"Button" : "Exit",
-"Url" : "",
+"D_Massage" : "Don't forget subscribe on YouTube Channel Cyrust",
+"D_Button_update" : "Yes",
+"Button" : "YouTube",
+"Url" : "https://youtube.com/c/cyrust21",
 "Path" : "/storage/emulated/0/Android/data/com.dts.freefireth/files/contentcache/Compulsory/android/gameassetbundles/avatar"
 }
