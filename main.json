@@ -3,15 +3,14 @@
 "A_Head" : "QV9IZWFk",
 "A_Hand" : "QV9IYW5k",
 "A_Ori" : "Q29uZmln",
-"BG" : "Yes",
+"BG" : "No",
 "Massage" : "Hello World 🌏
 Free Fire support version:
-- 1.43.4
-- 1.44.1
-- Advance Server",
+- 1.46.0",
 "Notif" : "Yes",
 "Tittle" : "News",
-"D_Massage" : "Free Fire Maintenance Server",
+"D_Massage" : "Free Fire Support for Antena
+Version 1.46.0",
 "D_Button_update" : "No",
 "Button" : "YouTube",
 "Url" : "https://youtube.com/c/cyrust21",
