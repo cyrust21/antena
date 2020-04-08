@@ -1,11 +1,11 @@
 {
-"UpdateVersion" : "1.1",
+"UpdateVersion" : "1.0",
 "UpdateMessage" : "Update Apk Antena Fix Bug",
 "UpdateUrl" : "https://",
 
-"InfoVersion" : "1.0",
+"InfoVersion" : "1.3",
 "InfoMessage" : "InfoMessage",
-"InfoButtonOk" : "1.12",
+"InfoButtonOk" : "OK",
 "InfoUrl" : "https://cyrustmods.com",
 "file1" : "F1",
 "file2" : "F2",
