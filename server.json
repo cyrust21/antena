@@ -1,5 +1,5 @@
 {
-"UpdateVersion" : "1.0",
+"UpdateVersion" : "1.1",
 "UpdateMessage" : "Update Apk Antena Fix Bug",
 "UpdateUrl" : "https://",
 
@@ -10,5 +10,5 @@
 
 "Antena" : "ANTENAVIEW",
 "Map" : "MAPPPPP",
-"LayoutMessage" : "Wellcome"
+"LayoutMessage" : "1.47.1"
 }
