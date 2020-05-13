@@ -1,11 +1,12 @@
 {
-"UpdateVersion" : "7.0",
+"UpdateVersion" : "7.5",
 "UpdateMessage" : "Update Apk Antena Fix Bug",
 "UpdateUrl" : "https://",
 
-"InfoVersion" : "true",
-"InfoMessage" : "Please use Free Fire Original Playstore and Use Virtual Chinese if your device ban,
-Because using mod unbanned/modmenu risk banned after end game",
+"InfoVersion" : "false",
+"InfoMessage" : "What's is new?
+• Added Antena View plus
+• Fix Bug Error connect internet",
 "InfoButtonOk" : "Tutorial",
 "InfoUrl" : "https://youtu.be/bfm11bDx3so",
 
