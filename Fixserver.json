@@ -4,9 +4,10 @@
 "UpdateUrl" : "https://semawur.com/gysP584uMeN",
 
 "InfoVersion" : "true",
-"InfoMessage" : "UNDER MAINTENANCE AND UPDATE",
-"InfoButtonOk" : "",
-"InfoUrl" : "https://raw.githubusercontent.com/cyrust21/antena/master/app_icon.png",
+"InfoMessage" : "UNDER MAINTENANCE AND UPDATE
+Need coffee for this update",
+"InfoButtonOk" : "Buy coffe",
+"InfoUrl" : "https://saweria.co/cyrust",
 
 "Antena" : "assetindexer.8~2FDinOIgg9lz07Rd~2BaRxwEkU4yw~3D",
 "Map" : "optionalmap_1.8H~2F6c9GukhwMi8hgcu8CjY6un4s~3D",
