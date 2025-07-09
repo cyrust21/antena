@@ -1,17 +1,14 @@
 {
 "UpdateVersion" : "7.1noupdate",
-"UpdateMessage" : "Update Version 7.5
-Link download
-www.cyrustmods.com",
-"UpdateUrl" : "https://chat.whatsapp.com/L9Q1uM9nkCp66TjEDMYByb",
+"UpdateMessage" : "https://fftoolspro-plus.blogspot.com/",
+"UpdateUrl" : "https://fftoolspro-plus.blogspot.com/",
 
-"InfoVersion" : "7.0",
-"InfoMessage" : "ANTENA STILL SAFE",
-"InfoButtonOk" : "Tutorial",
-"InfoUrl" : "https://chat.whatsapp.com/L9Q1uM9nkCp66TjEDMYByb",
+"InfoVersion" : "1.0",
+"InfoMessage" : "FF Tools",
+"InfoButtonOk" : "Update",
+"InfoUrl" : "https://fftoolspro-plus.blogspot.com/",
 
 "Antena" : "assetindexer.ChmtrFErUImPUvnstlQ98bJ4L9I~3D",
 "Map" : "optionalmap_1.8H~2F6c9GukhwMi8hgcu8CjY6un4s~3D",
-"LayoutMessage" : "1.47.6
-NiverBM"
+"LayoutMessage" : "FF ToolsPro+"
 }
